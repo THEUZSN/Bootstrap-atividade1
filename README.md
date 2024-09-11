@@ -1,6 +1,6 @@
 # ✔ Bootstrap - Atividade PW
 Página feita utilizando a biblioteca Bootstrap para o componente de programação Web do curso de Desenvolvimento de Sistemas
-## 🔨 Técnologias utilizadas
+## 🔨 Tecnologias utilizadas
 * HTML
 * CSS
 * Bootstrap
